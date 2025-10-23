@@ -1,5 +1,3 @@
-#[Arquitetura do TradeScope](assets/architecture.png)
-
 ## 📊 Visão Geral
 
 **TradeScope** é um **painel de vendas inteligente** desenvolvido em **Python + Dash**, que agrega dados de vendas de múltiplas fontes (CSV, ERP, CRMs) e transforma esses dados em **KPIs, visualizações e insights automáticos**.  
@@ -189,6 +187,5 @@ Licença MIT — sinta-se livre para usar, modificar e distribuir.
 
 ---
 
-Quer que eu **gere a imagem do painel TradeScope** (como se fosse um dashboard pronto com gráficos e KPIs) para você incluir no README também?  
-Posso gerar uma imagem realista simulando o painel interativo do Dash.
+osso gerar uma imagem realista simulando o painel interativo do Dash.
 ```
