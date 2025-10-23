@@ -184,8 +184,4 @@ Licença MIT — sinta-se livre para usar, modificar e distribuir.
 🐙 GitHub: [github.com/cl4y70n](https://github.com/cl4y70n)
 
 ```
-
----
-
-osso gerar uma imagem realista simulando o painel interativo do Dash.
 ```
