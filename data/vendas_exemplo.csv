@@ -1,0 +1,8 @@
+date,order_id,product,category,quantity,unit_price,region
+2025-09-01,1001,Perfume A,Beleza,2,120.00,Sudeste
+2025-09-01,1002,Shampoo X,Higiene,1,25.00,Sul
+2025-09-02,1003,Perfume A,Beleza,1,120.00,Sudeste
+2025-09-03,1004,Batom B,Beleza,3,15.00,Nordeste
+2025-09-04,1005,AguaMineral,Alimentos,10,2.5,Centro-Oeste
+2025-09-05,1006,Suco Y,Alimentos,5,6.0,Sul
+2025-09-06,1007,Perfume A,Beleza,1,120.00,Sudeste
